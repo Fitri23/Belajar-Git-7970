@@ -1,5 +1,8 @@
 <?php
 
+//update 9 dec 
+//by fitri
+
 require_once('lib/DBClass.php');
 require_once('lib/m_siswa.php');
 
